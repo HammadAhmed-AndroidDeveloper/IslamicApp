@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="colorAccent">#B99EB5</color>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="white">#FFFFFF</color>
+    <string name="allow">Allow</string>
+    <string name="appId">ca-app-pub-9633354372007205~6319455247</string>
+    <string name="app_name">Islamic App</string>
+    <string name="bannerAd">ca-app-pub-9633354372007205/5925521810</string>
+    <string name="gps_settings_text">Qiblah Compass required GPS which is not enabled, you must have to enable it before using the Qiblah Compass.</string>
+    <string name="gps_settings_title">Enable GPS settings</string>
+    <string name="interstitialAd">ca-app-pub-9633354372007205/7761309679</string>
+    <string name="leave">Leave</string>
+    <string name="menu_qibla">QIBLAH</string>
+    <string name="nativeAd">ca-app-pub-9633354372007205/3996544238</string>
+    <string name="openAd">ca-app-pub-9633354372007205/4305280391</string>
+    <style name="AlertDialogCustom" parent="Theme.Material3.Light.Dialog.Alert">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textColorPrimary">@color/colorPrimaryDark</item>
+        <item name="android:textColorTertiary">@color/colorPrimaryDark</item>
+        <item name="android:layoutDirection">rtl</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="AppTheme" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowActivityTransitions">true</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowEnterTransition">@android:transition/explode</item>
+        <item name="android:windowExitTransition">@android:transition/explode</item>
+
+    </style>
+    <style name="Splash" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-mergeDebugResources-64:/layout/fragment_ibadat.xml",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/layout/fragment_ibadat.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-mergeDebugResources-64:/layout/activity_main.xml",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-mergeDebugResources-64:/layout/fragment_hadith.xml",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/layout/fragment_hadith.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-mergeDebugResources-64:/layout/fragment_quran.xml",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/layout/fragment_quran.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-mergeDebugResources-64:/layout/activity_splash.xml",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-mergeDebugResources-64:/layout/prayer_layout.xml",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/layout/prayer_layout.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-mergeDebugResources-64:/layout/fragment_home.xml",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-mergeDebugResources-64:/layout/fragment_more.xml",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/layout/fragment_more.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-mergeDebugResources-64:/layout/enable_location_dialog.xml",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/layout/enable_location_dialog.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-mergeDebugResources-64:/layout/fragment_calendar.xml",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/layout/fragment_calendar.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-mergeDebugResources-64:/layout/fragment_compass.xml",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/layout/fragment_compass.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-mergeDebugResources-64:/layout/fragment_prayers_timing.xml",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/layout/fragment_prayers_timing.xml"
+    }
+]

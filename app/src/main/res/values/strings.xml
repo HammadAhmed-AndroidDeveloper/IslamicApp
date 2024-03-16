@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Islamic App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="allow">Allow</string>
+    <string name="leave">Leave</string>
+
+    <string name="menu_qibla">QIBLAH</string>
+
+    <string name="gps_settings_title">Enable GPS settings</string>
+    <string name="gps_settings_text">Qiblah Compass required GPS which is not enabled, you must have to enable it before using the Qiblah Compass.</string>
+
+<!--    Real ADs-->
+  <string name="appId">ca-app-pub-9633354372007205~6319455247</string>
+    <string name="bannerAd">ca-app-pub-9633354372007205/5925521810</string>
+    <string name="interstitialAd">ca-app-pub-9633354372007205/7761309679</string>
+    <string name="nativeAd">ca-app-pub-9633354372007205/3996544238</string>
+    <string name="openAd">ca-app-pub-9633354372007205/4305280391</string>
+
+<!--TEst Ads-->
+<!--    <string name="appId">ca-app-pub-9633354372007205~6319455247</string>-->
+<!--    <string name="bannerAd">ca-app-pub-9633354372007205/5925521810</string>-->
+<!--    <string name="interstitialAd">ca-app-pub-3940256099942544/1033173712</string>-->
+<!--    <string name="nativeAd">ca-app-pub-3940256099942544/1044960115</string>-->
+<!--    <string name="openAd">ca-app-pub-3940256099942544/3419835294</string>-->
+</resources>

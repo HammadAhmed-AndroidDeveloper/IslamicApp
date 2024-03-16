@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_search.png.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/search.png"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/layout_fragment_calendar.xml.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/layout/fragment_calendar.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_remove_ads_bg.xml.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/remove_ads_bg.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_isha_bg.png.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/isha_bg.png"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/layout_fragment_more.xml.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/layout/fragment_more.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_ic_sound_on.xml.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/ic_sound_on.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_main_screen_card.xml.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/main_screen_card.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/layout_prayer_layout.xml.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/layout/prayer_layout.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/layout_fragment_prayers_timing.xml.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/layout/fragment_prayers_timing.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/raw_adzan_makkah.mp3.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/raw/adzan_makkah.mp3"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_fajr_bg.png.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/fajr_bg.png"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/layout_fragment_ibadat.xml.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/layout/fragment_ibadat.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_quran.png.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/quran.png"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/menu_main_menu.xml.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_calendar.png.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/calendar.png"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_ibadat.png.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/ibadat.png"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/layout_fragment_hadith.xml.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/layout/fragment_hadith.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_alarm_clock.png.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/alarm_clock.png"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/layout_fragment_compass.xml.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/layout/fragment_compass.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_splsh_lower.png.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/splsh_lower.png"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/xml_backup_rules.xml.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_hadith.png.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/hadith.png"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_ic_sound_off.xml.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/ic_sound_off.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_compass_base.png.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/compass_base.png"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_home.png.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/home.png"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_magrib_bg.png.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/magrib_bg.png"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/navigation_nav_graph.xml.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/mipmap-hdpi_icon.png.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/mipmap-hdpi/icon.png"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_menu.xml.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/menu.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/layout_enable_location_dialog.xml.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/layout/enable_location_dialog.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-pngs-61:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/layout_fragment_home.xml.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_main_bg.xml.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/main_bg.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/layout_fragment_quran.xml.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/layout/fragment_quran.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_duhr_bg.png.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/duhr_bg.png"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/layout_activity_splash.xml.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/layout_activity_main.xml.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_compass_needle.png.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/compass_needle.png"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_splash_icon.png.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/splash_icon.png"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_whitebg.png.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/whitebg.png"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_adzan.png.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/adzan.png"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_search_bg.xml.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/search_bg.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_compass.png.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/compass.png"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_asr_bg.png.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/asr_bg.png"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_more.png.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/more.png"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/xml_data_extraction_rules.xml.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/raw_adzan_fajr.mp3.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/raw/adzan_fajr.mp3"
+    },
+    {
+        "merged": "com.ne.muslimprayers.qiblafinder.app-merged_res-65:/drawable_splash_bg.png.flat",
+        "source": "com.ne.muslimprayers.qiblafinder.app-main-67:/drawable/splash_bg.png"
+    }
+]
