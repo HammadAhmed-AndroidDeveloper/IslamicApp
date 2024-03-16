@@ -31,6 +31,7 @@ class SplashActivity : AppCompatActivity() {
     private lateinit var spinKit: SpinKitView
 
     public override fun onCreate(bundle: Bundle?) {
+
         super.onCreate(bundle)
         supportRequestWindowFeature(1)
         window.setFlags(1024, 1024)
