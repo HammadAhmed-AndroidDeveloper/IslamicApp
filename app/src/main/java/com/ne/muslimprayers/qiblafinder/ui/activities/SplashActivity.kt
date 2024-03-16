@@ -31,13 +31,14 @@ class SplashActivity : AppCompatActivity() {
     private lateinit var spinKit: SpinKitView
 
     public override fun onCreate(bundle: Bundle?) {
+
         super.onCreate(bundle)
         supportRequestWindowFeature(1)
         window.setFlags(1024, 1024)
         FirebaseAnalytics.getInstance(this@SplashActivity)
         setContentView(R.layout.activity_splash)
         val decorView = window.decorView
-        
+
         startBtn = findViewById(R.id.startBtn)
         spinKit = findViewById(R.id.spinKit)
 
