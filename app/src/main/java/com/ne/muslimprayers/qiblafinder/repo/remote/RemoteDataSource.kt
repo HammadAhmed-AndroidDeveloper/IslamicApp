@@ -19,11 +19,9 @@ import javax.inject.Inject
 class RemoteDataSource @Inject constructor(
     private val prayerService: PrayerService,
 ) {
-
     companion object {
         private const val TAG = "RemoteDataSource"
     }
-
 
     suspend fun getCalendar(lat: Double, long: Double, month: Int, year: Int) =
         flow<States<List<IslamicCalendar>>> {

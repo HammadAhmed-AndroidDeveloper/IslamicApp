@@ -20,9 +20,7 @@
         android:roundIcon="@mipmap/icon"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
-        android:usesCleartextTraffic="true"
-       >
-
+        android:usesCleartextTraffic="true">
 
         <activity
             android:name=".ui.activities.SplashActivity"
@@ -37,16 +35,15 @@
         </activity>
         <activity
             android:name=".ui.activities.MainActivity"
-            android:screenOrientation="portrait"
-            android:exported="true" />
+            android:exported="true"
+            android:screenOrientation="portrait" />
 
-        <receiver android:name="com.example.islamicapp.services.PrayerAlarm"
+        <receiver
+            android:name=".services.PrayerAlarmService"
             android:enabled="true"
             android:exported="true" />
 
-        <meta-data
-            android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="@string/appId" />
+
     </application>
 
 </manifest>
